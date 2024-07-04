@@ -1,3 +1,21 @@
 {
-  "server": "mikecoats.social"
+"server": "mikecoats.social",
+"home-timeline-length": 200,
+"max-bookmarks": 80,
+"max-favourites": 40,
+"max-followings": 80,
+"max-followers": 80,
+"max-follow-requests": 80,
+"from-notifications": 1,
+"reply-interval-in-hours": 0,
+"backfill-with-context":	1,
+"backfill-mentioned-users": 1,
+"from-lists": 1,
+"max-list-length": 100,
+"max-list-accounts": 10,
+"remember-users-for-hours": 168,
+"remember-hosts-for-days": 30,
+"http-timeout":	5,
+"log-level":	"DEBUG",
+"log-format":	"%(asctime)s: %(message)s"
 }
